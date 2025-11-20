@@ -72,14 +72,6 @@ Brand and software optimization strongly influence pricing.
 
 ---
 
-📈 Tableau Interactive Story
-
-Click the link below to view the dashboards:
-
-🔗 Tableau Story Link: (https://public.tableau.com/views/Smartphoneanalysis_17636156183330/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
----
-
 ## 📬 Contact
 
 Feel free to connect with me via the following platforms:
