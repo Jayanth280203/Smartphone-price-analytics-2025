@@ -11,8 +11,8 @@ The insights are visualized using Tableau, and predictions are modeled using Pyt
 Here’s a quick preview of the project 👇
 
 <div align="center">
-  <img src="https://github.com/Jayanth280203/Smartphone-price-analytics-2025/blob/8df2a6568b1f5dc033c58676414b8075fcef9425/Dashboards/Dashboard1.png">
-  <img src="https://github.com/Jayanth280203/Subscribers-Galore-Exploring-world-top-you-tube-channels/blob/main/profile_preview_2.png?raw=true" width="45%">
+  <img src="https://github.com/Jayanth280203/Smartphone-price-analytics-2025/blob/8df2a6568b1f5dc033c58676414b8075fcef9425/Dashboards/Dashboard1.png?raw=true" width="45%">
+  <img src="https://github.com/Jayanth280203/Smartphone-price-analytics-2025/blob/c31fcf2ad1ec26d69e7f0a0956c8f92aa1f76771/Dashboards/Dashboard2.png?raw=true" width="45%">
 </div>
 
 ---
