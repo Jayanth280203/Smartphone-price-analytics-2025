@@ -5,7 +5,7 @@
 
 ---
 
-## 📊 Dashboard 1: Smartphone Market Overview
+## 📊 *Dashboard 1: Smartphone Market Overview*
 
 Includes:
 
@@ -23,7 +23,7 @@ Includes:
 
 ---
 
-## 🧠 Dashboard 2: Feature-Based Pricing Insights
+## 🧠 *Dashboard 2: Feature-Based Pricing Insights*
 
 Includes:
 
@@ -43,7 +43,7 @@ Includes:
 
 ---
 
-## 📘 Story: Smartphone Price Drivers & Recommendations (2025)
+## 📘 *Story: Smartphone Price Drivers & Recommendations (2025)*
 
 Includes:
 
