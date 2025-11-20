@@ -1,0 +1,29 @@
+feature,importance
+remainder__display_size_inch,0.1448824612457117
+remainder__rating,0.13218934684999256
+remainder__camera_mp,0.08306889352155535
+remainder__charging_watt,0.0809066786695262
+remainder__ram_gb,0.07662700377067318
+remainder__battery_mah,0.07507578760986726
+remainder__storage_gb,0.07505657117466248
+onehot__processor_Tensor G4,0.020493900949610764
+onehot__brand_Vivo,0.01985051077797062
+onehot__brand_OnePlus,0.01916312208125616
+onehot__brand_Samsung,0.018709916350793738
+onehot__processor_Snapdragon 8 Gen 3,0.018493543199783836
+onehot__brand_Xiaomi,0.018472213351882927
+onehot__brand_Google,0.017851417939316255
+onehot__processor_A18 Pro,0.017479902045926237
+onehot__brand_Oppo,0.017292986034499296
+onehot__processor_Snapdragon 7+ Gen 2,0.01726908581041136
+onehot__processor_Snapdragon 6 Gen 1,0.01686137262041173
+onehot__processor_Helio G99,0.016796527326429098
+onehot__processor_Dimensity 9300,0.016643484507342623
+onehot__5g_support_Yes,0.015920623174539895
+onehot__processor_Exynos 2400,0.015579793833394306
+onehot__5g_support_No,0.015198101881293039
+onehot__brand_Infinix,0.015147787241454958
+onehot__brand_Realme,0.01432744155161998
+onehot__os_iOS,0.007180865043743892
+onehot__brand_Apple,0.007088209232378778
+onehot__os_Android,0.006372452203951885
