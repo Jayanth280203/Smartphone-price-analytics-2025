@@ -9,7 +9,7 @@ The insights are visualized using Tableau, and predictions are modeled using Pyt
 
 ## 📊 Dataset Information
 
-Feature	Description
+*Feature	Description*
 
 Brand, Model	Smartphone identity
 RAM, Storage, Camera MP, Battery, Display Inch	Hardware specifications
@@ -17,7 +17,7 @@ Processor, 5G Support, OS	Performance and network features
 Price (USD → INR)	Final smartphone price
 
 
-Dataset Source: Kaggle
+*Dataset Source: Kaggle*
 
 ---
 
@@ -34,8 +34,8 @@ Dataset Source: Kaggle
 Two ML algorithms were trained:
 
 Model	-- R² Score	-- MAE --	RMSE
-🔸Linear Regression -- 	-0.07 -- 	₹372.47	-- ₹431.52
-🔸Random Forest	-- -0.08 --	₹373.91 --	₹434.42
+🔸Linear Regression , 	-0.07 , 	₹372.47	, ₹431.52
+🔸Random Forest	, -0.08 ,	₹373.91 ,	₹434.42
 
 > Insight: Price prediction is difficult using only hardware specs.
 Brand and software optimization strongly influence pricing.
@@ -44,7 +44,7 @@ Brand and software optimization strongly influence pricing.
 
 ## 📌 Market Insights (From Tableau Story)
 
-🔍 Key Findings
+*🔍 Key Findings*
 
 🔺RAM, Display Size, and Charging Speed increase price significantly.
 
